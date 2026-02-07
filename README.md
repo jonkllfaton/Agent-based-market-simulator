@@ -59,8 +59,6 @@ This simulator models **microeconomic behavior, market dynamics, and emergent pa
 # Clone repository
 git clone https://github.com/jonkllfaton/Agent-based-market-simulator.git
 
-cd Agent-based-market-simulator
-
 # Install dependencies
 pip install -r requirements.txt
 
